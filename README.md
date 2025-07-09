@@ -1,9 +1,5 @@
 # 🍷 Wine Quality EDA – Mini Project 9
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pehal6/Mini-Project-9/blob/main/EDA.ipynb)
-
----
-
 ## 📌 Overview
 
 This project performs a complete **Exploratory Data Analysis (EDA)** on the **Red Wine Quality dataset** from the UCI Machine Learning Repository.  
